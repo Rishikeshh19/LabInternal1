@@ -23,7 +23,7 @@
         header {
             background-color: #2874f0;
             color: white;
-            padding: 18px 60px;
+            padding: 19px 65px;
             display: flex;
             justify-content: space-between;
             align-items: center;
