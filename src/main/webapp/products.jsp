@@ -23,7 +23,11 @@
         header {
             background-color: #2874f0;
             color: white;
+
+            padding: 17px 64px;
+=======
             padding: 19px 65px;
+
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -280,6 +284,7 @@
             <h3>Digital Camera</h3>
 
             <p class="category">Electronics</p>
+            <p class ="quantity">2</p>
 
             <p class="price">₹34,999</p>
 
