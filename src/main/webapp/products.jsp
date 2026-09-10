@@ -280,6 +280,7 @@
             <h3>Digital Camera</h3>
 
             <p class="category">Electronics</p>
+            <p class ="quantity">2</p>
 
             <p class="price">₹34,999</p>
 
